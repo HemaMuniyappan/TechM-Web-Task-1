@@ -1,1 +1,1 @@
-# CIT-FOODS
+# Restaurant landing page
